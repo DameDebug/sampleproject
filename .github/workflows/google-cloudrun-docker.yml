@@ -36,7 +36,7 @@ on:
 
 env:
   PROJECT_ID: 'sampleproject-499502' # TODO: update to your Google Cloud project ID
-  GAR_NAME: 'sampleproject' # update Artifact Registry location
+  GAR_NAME: 'sampledocker' # update Artifact Registry location
   GAR_LOCATION: 'asia-east1' #update Artifact Registry location
   REGION: 'asia-east1' # TODO: update to your region
   SERVICE: 'my-sampleproject' # TODO: update to your service name
