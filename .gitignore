@@ -5,3 +5,5 @@ notes.txt
 .env
 
 *.log
+
+node_modules/
